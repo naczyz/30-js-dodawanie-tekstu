@@ -1,2 +1,2 @@
-let MyName = document.querySelector("p");
-MyName.textContent = "any text";
+let myName = document.querySelector("p");
+myName.textContent = "any text";
